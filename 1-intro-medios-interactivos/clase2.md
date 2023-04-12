@@ -2,7 +2,7 @@
 
 1.2 dibujo programático
 
-jueves 21 julio 2022
+miércoles 12 abril 2023
 
 hoy aprenderemos:
 

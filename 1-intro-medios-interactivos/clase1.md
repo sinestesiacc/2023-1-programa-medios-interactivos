@@ -2,7 +2,7 @@
 
 1.1 fundamentos de programación en Processing
 
-jueves 14 julio 2022
+miércoles 05 abril 2023
 
 hoy aprenderemos:
 
