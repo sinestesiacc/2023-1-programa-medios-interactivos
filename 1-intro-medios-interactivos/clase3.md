@@ -2,7 +2,7 @@
 
 1.3 modificación de imágenes y tipografía
 
-jueves 28 julio 2022
+miércoles 19 abril 2022
 
 hoy aprenderemos:
 

@@ -14,7 +14,7 @@ Abril - Julio 2023
 
 ## Estructura del repositorio
 
-Hay una carpeta por cada uno de los 5 módulos:
+Hay una carpeta por cada uno de los módulos:
 
 - [1-intro-medios-interactivos/](1-intro-medios-interactivos/)
 - [2-objetos-electronicos/](2-objetos-electronicos/)
