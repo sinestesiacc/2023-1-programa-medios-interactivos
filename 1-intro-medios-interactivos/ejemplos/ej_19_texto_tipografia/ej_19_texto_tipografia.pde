@@ -1,9 +1,9 @@
 // ej_19_texto_tipografia
 // por montoyamoraga
 // para Academia Sinestesia
-// Programa Medios Interactivos 2022
-// v0.0.1 julio 2022
-// hecho con Processing 4.0b8
+// Programa Medios Interactivos 2023
+// v0.0.2 julio 2023
+// hecho con Processing 4.2.0
 
 // creditos de tipografia Compagnon
 // https://velvetyne.fr/fonts/compagnon/
@@ -14,7 +14,7 @@
 // Crédits: EESAB-Rennes, Typography creation studio, Master Graphic Design, 2018.
 // Made in France, Made in Brittany.
 
-// extraido de propuesta de nueva constitucion de chile 2022
+// extraido de propuesta de nueva constitucion de chile 2023
 String[] constitucion = {"Nosotras y nosotros, el pueblo de Chile, ",
   "conformado por diversas naciones, ",
   "nos otorgamos libremente esta Constitución,",

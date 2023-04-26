@@ -135,7 +135,7 @@ vayamos a la web del repositorio de la clase.
 
 hay 3 opciones:
 
-1. están atrás ("behind") del repositorio, o sea que han habido cambios en el original, que su repositorio todavía no tiene. Para aceptar esos cambios, hacemos click en "Fetch upstream", y en el botón verde "Fetch and merge". Tras esto, el repo dirá "This branch is up to date with sinestesiacc/2022-programa-medios-interactivos:main."
+1. están atrás ("behind") del repositorio, o sea que han habido cambios en el original, que su repositorio todavía no tiene. Para aceptar esos cambios, hacemos click en "Fetch upstream", y en el botón verde "Fetch and merge". Tras esto, el repo dirá "This branch is up to date with sinestesiacc/2023-programa-medios-interactivos:main."
 2. ustedes están adelante, y pueden contribuir al repositorio, con el botón "Contribute" que les permite crear una "pull request", para proponer al repo de la clase a que incorpore sus cambios.
 3. están exactamente igual que el repo original, y dirá "up to date", o sea, no estarán ni adelante ni atrás :)
 

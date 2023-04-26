@@ -2,4 +2,4 @@
 
 protocolo MIDI y OSC en Processing
 
-miércoles 03 mayo 2022
+miércoles 03 mayo 2023

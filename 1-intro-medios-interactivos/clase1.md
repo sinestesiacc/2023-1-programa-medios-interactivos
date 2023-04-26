@@ -24,7 +24,7 @@ hoy aprenderemos:
 ## programa y organización (15 min)
 
 - organización: https://github.com/sinestesiacc
-- programa: https://github.com/sinestesiacc/2022-programa-medios-interactivos/
+- programa: https://github.com/sinestesiacc/2023-programa-medios-interactivos/
 - berlin code of conduct: https://berlincodeofconduct.org/es/
 
 ## presentación estudiantes (15 min)
@@ -106,7 +106,7 @@ lo descomponemos como 1*$10^{2}$ + 2*$10^{1}$ + 3*$10^{0}$ + 4*$10^{-1}$ + 5*$10
 
 descargar Processing desde https://processing.org/
 
-en julio 2022 está disponible la versión 4.0 beta 8, publicada en abril 2022.
+en abril 20233está disponible la versión 4.2.0.
 
 copien este bosquejo y péguenlo en la ventana de Processing.
 

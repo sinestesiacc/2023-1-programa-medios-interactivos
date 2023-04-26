@@ -1,9 +1,9 @@
 // ej_02_puntos_lineas
 // por montoyamoraga
 // para Academia Sinestesia
-// Programa Medios Interactivos 2022
-// v0.0.1 julio 2022
-// hecho con Processing 4.0b8
+// Programa Medios Interactivos 2023
+// v0.0.2 julio 2023
+// hecho con Processing 4.2.0
 
 void setup() {
 

@@ -2,7 +2,7 @@
 
 modificación de imágenes y tipografía
 
-miércoles 19 abril 2022
+miércoles 19 abril 2023
 
 hoy aprenderemos:
 

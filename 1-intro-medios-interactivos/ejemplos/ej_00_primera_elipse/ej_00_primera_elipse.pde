@@ -1,9 +1,9 @@
 // ej_00_primera_elipse
 // por montoyamoraga
 // para Academia Sinestesia
-// Programa de Medios Interactivos 2022
-// v0.0.1 julio 2022
-// hecho con Processing 4.0b8
+// Programa de Medios Interactivos 2023
+// v0.0.2 julio 2023
+// hecho con Processing 4.2.0
 
 // setup() corre al principio, una vez
 void setup() {

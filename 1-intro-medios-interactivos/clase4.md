@@ -2,4 +2,4 @@
 
 osciladores, sampling e interactividad en Processing
 
-miércoles 26 abril 2022
+miércoles 26 abril 2023
