@@ -12,17 +12,6 @@ hoy aprenderemos:
 - tamaño de texto
 - tipografías
 
-## enlaces a ejemplos de esta clase
-
-- [ejemplos/ej_13_cargar_imagen/](./ejemplos/ej_13_cargar_imagen/)
-- [ejemplos/ej_14_procesar_imagen/](./ejemplos/ej_14_procesar_imagen/)
-- [ejemplos/ej_15_puntillismo_imagen/](./ejemplos/ej_15_puntillismo_imagen/)
-- [ejemplos/ej_16_repetir_imagen/](./ejemplos/ej_16_repetir_imagen/)
-- [ejemplos/ej_17_texto/](./ejemplos/ej_17_texto/)
-- [ejemplos/ej_18_texto_tamano/](./ejemplos/ej_18_texto_tamano/)
-- [ejemplos/ej_19_texto_tipografia/](./ejemplos/ej_19_texto_tipografia/)
-- [ejemplos/ej_20_texto_rotacion/](./ejemplos/ej_20_texto_rotacion/)
-
 ## repaso clase pasada (15 min)
 
 - variables y scope

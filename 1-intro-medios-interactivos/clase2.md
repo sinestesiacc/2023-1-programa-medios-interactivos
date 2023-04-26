@@ -13,16 +13,6 @@ hoy aprenderemos:
 - funciones y argumentos
 - exportar a archivos de imagen
 
-## enlaces a ejemplos de esta clase
-
-- [ej_06_tres_elipses](./ejemplos/ej_06_tres_elipses/)
-- [ej_07_tres_elipses_variables](./ejemplos/ej_07_tres_elipses_variables/)
-- [ej_08_tres_elipses_arreglos](./ejemplos/ej_08_tres_elipses_arreglos/)
-- [ej_09_variables_scope/](./ejemplos/ej_09_variables_scope/)
-- [ej_10_bucles_for](./ejemplos/ej_10_bucles_for/)
-- [ej_11_tres_elipses_funcion/](./ejemplos/ej_11_tres_elipses_funcion/)
-- [ej_12_exportar_lienzo/](./ejemplos/ej_12_exportar_lienzo/)
-
 ## repaso clase pasada (15 min)
 
 conceptos importantes:
