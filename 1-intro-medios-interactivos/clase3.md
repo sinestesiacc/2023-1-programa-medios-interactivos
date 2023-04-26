@@ -1,6 +1,6 @@
 # clase3
 
-1.3 modificación de imágenes y tipografía
+modificación de imágenes y tipografía
 
 miércoles 19 abril 2022
 

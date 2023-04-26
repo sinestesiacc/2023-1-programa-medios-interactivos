@@ -1,6 +1,6 @@
 # clase1
 
-1.1 fundamentos de programación en Processing
+fundamentos de programación en Processing
 
 miércoles 05 abril 2023
 

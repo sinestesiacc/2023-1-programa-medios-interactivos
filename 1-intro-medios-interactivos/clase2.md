@@ -1,6 +1,6 @@
 # clase2
 
-1.2 dibujo programático
+dibujo programático
 
 miércoles 12 abril 2023
 
