@@ -68,7 +68,7 @@ http://www.wch-ic.com/downloads/CH341SER_ZIP.html (Windows) o http://www.wch-ic.
 
 ## ejercicio 1: salida digital
 
-<img src="media/objetos-electronicos/ej_01_salida_digital.jpg" width="500">
+<img src="media/ej_01_salida_digital.jpg" width="500">
 
 [ejemplos/ej_01_salida_digital/](./ejemplos/ej_01_salida_digital/)
 
@@ -98,7 +98,7 @@ Datos analógicos: rangos variables, Arduino procesa datos de 0 a 1023 (2^10)
 
 ## ejercicio 2: entrada y salida analógica (potenciómetro)
 
-<img src="media/objetos-electronicos/ej_02_entrada_salida_analogica_pot.jpg" width="500">
+<img src="media/ej_02_entrada_salida_analogica_pot.jpg" width="500">
 
 [ejemplos/ej_02_entrada_salida_analogica/](./ejemplos/ej_02_entrada_salida_analogica/)
  
