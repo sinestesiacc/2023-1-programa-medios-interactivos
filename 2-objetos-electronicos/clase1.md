@@ -2,7 +2,7 @@
 
 Electrónica y programación con Arduino
 
-Jueves 10 mayo 2023
+Miercoles 10 mayo 2023
 
 Hoy aprenderemos:
 
@@ -68,7 +68,7 @@ http://www.wch-ic.com/downloads/CH341SER_ZIP.html (Windows) o http://www.wch-ic.
 
 ## ejercicio 1: salida digital
 
-<img src="../media/objetos-electronicos/ej_01_salida_digital.jpg" width="500">
+<img src="./media/objetos-electronicos/ej_01_salida_digital.jpg" width="500">
 
 [ejemplos/ej_01_salida_digital/](./ejemplos/ej_01_salida_digital/)
 
