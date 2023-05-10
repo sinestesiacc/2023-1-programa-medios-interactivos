@@ -25,3 +25,7 @@ http://www.wch-ic.com/downloads/CH341SER_ZIP.html (Windows) o http://www.wch-ic.
 
 - Libro de Proyectos de Arduino
   http://ibsteam.caib.es/wp-content/uploads/sites/108/2020/02/Libro_de_Proyectos_de_Arduino_Starter_Kit.pdf
+  
+ ## Kit de materiales
+
+![kit-materiales](media/kit-materiales.jpg)
