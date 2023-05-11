@@ -1,9 +1,9 @@
 // ej_02_entrada_salida_analogica
 // por sergiomoradiaz
 // para Academia Sinestesia
-// Programa de Medios Interactivos 2022
-// v0.0.1 agosto 2022
-// hecho con Arduino 1.8.19
+// Programa de Medios Interactivos 2023
+// v0.0.2 mayo 2023
+// hecho con Arduino 2.1.0
 
 // declarar variables
 int pinLed = 3; // led en pin 3
