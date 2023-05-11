@@ -1,7 +1,7 @@
 // ej_02_entrada_salida_analogica
 // por sergiomoradiaz
 // para Academia Sinestesia
-// Programa de Medios Interactivos 2023
+// Programa Medios Interactivos 2023
 // v0.0.2 mayo 2023
 // hecho con Arduino 2.1.0
 
