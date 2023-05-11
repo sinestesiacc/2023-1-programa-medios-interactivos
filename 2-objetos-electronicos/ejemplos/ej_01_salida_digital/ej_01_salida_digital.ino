@@ -1,7 +1,7 @@
 // ej_01_salida_digital
 // por sergiomoradiaz
 // para Academia Sinestesia
-// Programa de Medios Interactivos 2023
+// Programa Medios Interactivos 2023
 // v0.0.2 mayo 2023
 // hecho con Arduino 2.1.0
 
