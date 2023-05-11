@@ -1,9 +1,9 @@
 // ej_04_rgb_analogico
 // por sergiomoradiaz
 // para Academia Sinestesia
-// Programa de Medios Interactivos 2022
-// v0.0.1 agosto 2022
-// hecho con Arduino 1.8.19
+// Programa Medios Interactivos 2023
+// v0.0.2 mayo 2023
+// hecho con Arduino 2.1.0
 
 // declarar variables
 int pinSensor = A0; // sensor en pin A0
