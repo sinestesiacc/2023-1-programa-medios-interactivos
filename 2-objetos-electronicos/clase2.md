@@ -41,3 +41,12 @@ Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) par
 <img src="media/ej_04_rgb_analogico_sonido.jpg" width="500">
 
 [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
+
+
+## ejercicio 5: LED RGB y entrada analógica (sensor de proximidad SHARP)
+
+<img src="media/ej_05_rgb_sharp.jpg" width="500">
+
+[ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
+
+[ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
