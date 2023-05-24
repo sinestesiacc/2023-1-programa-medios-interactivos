@@ -2,7 +2,7 @@
 
 Sensores y actuadores
 
-Jueves 11 agosto 2022
+Miercoles 17 mayo 2023
 
 Hoy aprenderemos:
 
@@ -16,7 +16,6 @@ Hoy aprenderemos:
 
 - [ejemplos/ej_03_rgb_digital/](./ejemplos/ej_03_rgb_digital/)
 - [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
-- [ejemplos/ej_05_rgb_ultrasonido/](./ejemplos/ej_05_rgb_ultrasonido/)
 
 ## datos digitales y analógicos
 
@@ -42,17 +41,3 @@ Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) par
 <img src="../media/objetos-electronicos/ej_04_rgb_analogico_sonido.jpg" width="500">
 
 [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
-
-## ejercicio 5: LED RGB y entrada por pulsos (Sensor de Proximidad por Ultrasonido)
-
-<img src="../media/objetos-electronicos/ej_05_rgb_ultrasonido.jpg" width="500">
-
-[ejemplos/ej_05_rgb_ultrasonido/](./ejemplos/ej_05_rgb_ultrasonido/)
-
-## lectura de datos de pulso
-
-Se almacena el pulso generado a partir de un pin y lo transforma en señal analógica 
-
-```arduino
-pulseIn(pinE, HIGH);
-```
