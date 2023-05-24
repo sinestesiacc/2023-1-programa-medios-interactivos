@@ -27,17 +27,17 @@ Datos analógicos: rangos variables, Arduino procesa datos de 0 a 1023 (2^10)
 
 Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) para controlar la cantidad de corriente que se entrega a los dispositivos, emulando una señal analógica.
 
-<img src="../media/objetos-electronicos/pwm.jpg" width="700">
+<img src="media/objetos-electronicos/pwm.jpg" width="700">
 
 ## ejercicio 3: LED RGB y entrada digital (sensor de luz LDR)
 
-<img src="../media/objetos-electronicos/ej_03_rgb_digital_ldr.jpg" width="500">
+<img src="media/objetos-electronicos/ej_03_rgb_digital_ldr.jpg" width="500">
 
 [ejemplos/ej_03_rgb_digital/](./ejemplos/ej_03_rgb_digital/)
 
 
 ## ejercicio 4: LED RGB y entrada analógica (sensor de sonido)
 
-<img src="../media/objetos-electronicos/ej_04_rgb_analogico_sonido.jpg" width="500">
+<img src="media/objetos-electronicos/ej_04_rgb_analogico_sonido.jpg" width="500">
 
 [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
