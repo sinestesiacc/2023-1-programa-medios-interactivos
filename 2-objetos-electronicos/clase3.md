@@ -26,3 +26,10 @@ Hoy aprenderemos:
 <img src="media/ej_04_rgb_analogico_sharp.jpg" width="500">
 
 [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
+
+## uso e instalación de librerías
+
+
+## ejercicio 6: motor servo y entrada analógica (sensor de proximidad SHARP)
+
+## ejercicio 7: motor servo, buzzer y entrada analógica (sensor de proximidad SHARP)
