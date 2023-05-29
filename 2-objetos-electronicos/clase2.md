@@ -10,7 +10,7 @@ Hoy aprenderemos:
 - Modulación por ancho de pulsos (PWM)
 - Componentes eléctricos, sensores y actuadores
 - Sensores de luz, sonido y proximidad
-- Programación en Arduino: Condicionales, mapeo de valores, pulso
+- Programación en Arduino: Condicionales, mapeo de valores
 
 ## enlaces a ejemplos de esta clase
 
@@ -39,12 +39,5 @@ Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) par
 ## ejercicio 4: LED RGB y entrada analógica (sensor de sonido)
 
 <img src="media/ej_04_rgb_analogico_sonido.jpg" width="500">
-
-[ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
-
-
-## ejercicio 5: LED RGB y entrada analógica (sensor de proximidad SHARP)
-
-<img src="media/ej_05_rgb_sharp.jpg" width="500">
 
 [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
