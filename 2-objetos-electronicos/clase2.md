@@ -70,10 +70,3 @@ Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) par
 <img src="media/ej_03_rgb_digital_ldr.jpg" width="500">
 
 [ejemplos/ej_03_rgb_digital/](./ejemplos/ej_03_rgb_digital/)
-
-
-## ejercicio 4: LED RGB y entrada analógica (sensor de sonido)
-
-<img src="media/ej_04_rgb_analogico_sonido.jpg" width="500">
-
-[ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
