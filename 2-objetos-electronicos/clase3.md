@@ -23,7 +23,7 @@ Hoy aprenderemos:
 
 ## ejercicio 5: LED RGB y entrada analógica 2 (sensor de proximidad SHARP)
 
-<img src="media/ej_04_rgb_sharp.jpg" width="500">
+<img src="media/ej_05_rgb_sharp.jpg" width="500">
 
 [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
 
