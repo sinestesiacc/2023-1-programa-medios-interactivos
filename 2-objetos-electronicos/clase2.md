@@ -2,7 +2,7 @@
 
 Sensores y actuadores
 
-Miercoles 17 mayo 2023
+Miercoles 24 mayo 2023
 
 Hoy aprenderemos:
 
