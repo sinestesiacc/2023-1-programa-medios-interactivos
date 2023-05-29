@@ -12,6 +12,8 @@ Hoy aprenderemos:
 - Sensores de luz, sonido y proximidad
 - Programación en Arduino: Condicionales, mapeo de valores
 
+## enlace a presentación PDF
+- [presentaciones/sinestesia-objetos-electronicos-clase2.pdf](./presentaciones/sinestesia-objetos-electronicos-clase2.pdf)
 
 ## enlaces a ejemplos de esta clase
 
