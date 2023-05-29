@@ -13,7 +13,7 @@ Hoy aprenderemos:
 
 ## enlace a presentación PDF
 - [presentaciones/sinestesia-objetos-electronicos-clase1.pdf](./presentaciones/sinestesia-objetos-electronicos-clase1.pdf)
-- 
+
 ## enlaces a ejemplos de esta clase
 
 - [ejemplos/ej_01_salida_digital/](./ejemplos/ej_01_salida_digital/)
