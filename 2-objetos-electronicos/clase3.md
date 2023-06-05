@@ -24,7 +24,7 @@ Hoy aprenderemos:
 
 ## ejercicio 4B: LED RGB y entrada analógica 2 (sensor de proximidad SHARP)
 
-Ambos casos usan el mismo código por ser sensore de entrada analógica.
+Ambos casos usan el mismo código por usar sensore de entrada analógica en conjunto con un LED.
 
 <img src="media/ej_05_rgb_sharp.jpg" width="500">
 
@@ -42,6 +42,8 @@ Servo servo1;        // crear objeto servo
 [ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
 
 ## ejercicio 5B: motor servo y entrada analógica (potenciómetro)
+
+Ambos casos usan el mismo código por usar sensore de entrada analógica en conjunto con un motor servo.
 
 <img src="media/ej_07_servo_analogico.jpg" width="500">
 
