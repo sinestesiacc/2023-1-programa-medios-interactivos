@@ -11,6 +11,9 @@ Hoy aprenderemos:
 - Movimiento físico con motor servo
 - Autonomía de prototipos electrónicos
 
+## enlace a presentación PDF
+- [presentaciones/sinestesia-objetos-electronicos-clase3.pdf](./presentaciones/sinestesia-objetos-electronicos-clase3.pdf)
+
 ## enlaces a ejemplos de esta clase
 
 - [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
