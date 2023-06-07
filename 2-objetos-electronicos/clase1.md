@@ -22,7 +22,7 @@ Hoy aprenderemos:
 ## programa y organización
 
 - Organización: https://github.com/sinestesiacc
-- Programa: https://github.com/sinestesiacc/2022-programa-medios-interactivos/
+- Programa: https://github.com/sinestesiacc/2023-programa-medios-interactivos/
 - Berlin code of conduct: https://berlincodeofconduct.org/es/
 
 ## presentación de profesor y estudiantes
