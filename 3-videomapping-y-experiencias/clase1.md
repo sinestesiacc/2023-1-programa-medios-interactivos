@@ -16,7 +16,7 @@ Hoy aprenderemos:
 ## descargas para esta clase
 
 - [Software MadMapper] (https://madmapper.com/)
-- [Presentación Introductoria] (./archivos/sinestesia-videomapping-experencias-clase1.pdf)
+- [Presentación Introductoria] (./presentaciones/sinestesia-videomapping-experencias-clase1.pdf)
 - [Archivos Popup](./archivos/popup.pdf)
 
 ## programa y organización
