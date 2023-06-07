@@ -3,8 +3,8 @@
 ## Estructura del repositorio
 
 - [clase1.md](clase1.md): miercoles 7 de junio
-- [clase2.md](clase2.md): miercoles 9 de junio
-- [clase3.md](clase3.md): viernes 14 de junio
+- [clase2.md](clase2.md): viernes 9 de junio
+- [clase3.md](clase3.md): miercoles 14 de junio
 - [ejemplos/](ejemplos/): carpeta con los ejemplos de código.
 
 ## Profesor
