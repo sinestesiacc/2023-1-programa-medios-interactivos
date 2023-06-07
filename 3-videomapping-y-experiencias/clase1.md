@@ -18,7 +18,7 @@ Hoy aprenderemos:
 - [Software MadMapper] (https://madmapper.com/)
 - [Presentación Introductoria] (./archivos/sinestesia-videomapping-clase1.pdf)
 - [Archivos Popup] (archivos/popup.pdf)
-- [ejemplos/ej_02_entrada_salida_analogica/](./ejemplos/ej_02_entrada_salida_analogica/)
+- [ejemplos/ej_02_entrada_salida_analogica/](./archivos/ej_02_entrada_salida_analogica/)
 
 ## programa y organización
 
