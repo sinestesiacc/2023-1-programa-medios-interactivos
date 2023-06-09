@@ -18,6 +18,8 @@ Hoy aprenderemos:
 - [Software MadMapper] (https://madmapper.com/)
 - [Presentación Introductoria] (./presentaciones/sinestesia-videomapping-experencias-clase1.pdf)
 - [Archivos Popup](./archivos/popup.pdf)
+- [Archivos Popup](./archivos/popup.pdf)
+- [Archivos Popup](./archivos/popup.pdf)
 
 ## programa y organización
 
